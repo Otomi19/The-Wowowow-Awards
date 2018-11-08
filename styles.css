@@ -1,0 +1,39 @@
+.nominee{
+    font-family: 'Luckiest Guy', cursive;
+    color: white;
+}
+.head{
+    font-family: 'Spicy Rice', cursive;
+    color: blue;
+}
+.hi{
+    font-family: 'Concert One', cursive;
+    color: magenta;
+}
+.winner{
+    font-family: 'Caveat Brush', cursive;
+    color: yellow;
+}
+h2{
+    font-family: 'Caveat Brush', cursive;
+    color: lime;
+}
+body{
+    background-image:url(https://i2.wp.com/cdn118.picsart.com/217438056008202.jpg?fit=450,300&zoom=2&strip=all);
+}
+.red{
+    width:350px;
+    height:200px;
+}
+.win{
+    color: red;
+    font-family: 'Black And White Picture', sans-serif;
+}
+.winn{
+    color:#00c2ec;
+}
+.winnr{
+    color: brown;
+    font-family: 'Black And White Picture', sans-serif;
+font-family: 'Patrick Hand', cursive;
+}
